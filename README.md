@@ -14,7 +14,7 @@ __________________________________________________
 
 Debian8
 ```
-wget -O install.sh https://github.com/Dv-Server/debian8/raw/master/install.sh?raw=true
+wget -O install.sh https://github.com/dkdenza/debian8/raw/master/install.sh?raw=true
 chmod +x install.sh
 ./install.sh
 ```
